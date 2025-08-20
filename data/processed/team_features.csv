@@ -1,0 +1,51 @@
+team_name,region,championship_points,qualification_status,total_matches,wins,losses,win_rate,recent_form,recent_matches_count,tournaments_played,weighted_performance,tournament_diversity,maps_played,best_map_winrate,worst_map_winrate,map_pool_strength,regional_strength,champions_probability,avg_rating
+G2 Esports,americas,19,qualified,0.0,0.0,0.0,0.0,0.5,0.0,1,100.0,1.0,0.0,0.0,1.0,0.5,1.1,0.98,
+Sentinels,americas,11,qualified,0.0,0.0,0.0,0.0,0.5,0.0,1,100.0,1.0,0.0,0.0,1.0,0.5,1.1,0.9,
+MIBR,americas,7,contender,0.0,0.0,0.0,0.0,0.5,0.0,1,100.0,1.0,0.0,0.0,1.0,0.5,1.1,0.35,
+KRÜ Esports,americas,5,contender,,,,0.5,0.5,,0,1000.0,,,,,,1.1,0.27999999999999997,1.0
+Evil Geniuses,americas,4,contender,0.0,0.0,0.0,0.0,0.5,0.0,1,100.0,1.0,0.0,0.0,1.0,0.5,1.1,0.27999999999999997,
+100 Thieves,americas,3,contender,,,,0.5,0.5,,0,1000.0,,,,,,1.1,0.27999999999999997,1.0
+Cloud9,americas,3,contender,0.0,0.0,0.0,0.0,0.5,0.0,1,100.0,1.0,0.0,0.0,1.0,0.5,1.1,0.27999999999999997,
+NRG,americas,2,longshot,,,,0.5,0.5,,0,1000.0,,,,,,1.1,0.12,1.0
+2Game Esports,americas,1,longshot,0.0,0.0,0.0,0.0,0.5,0.0,1,100.0,1.0,0.0,0.0,1.0,0.5,1.1,0.12,
+Leviatán Esports,americas,1,longshot,,,,0.5,0.5,,0,1000.0,,,,,,1.1,0.12,1.0
+LOUD,americas,0,eliminated,0.0,0.0,0.0,0.0,0.5,0.0,1,100.0,1.0,0.0,0.0,1.0,0.5,1.1,0.02,
+FURIA,americas,0,eliminated,0.0,0.0,0.0,0.0,0.5,0.0,1,100.0,1.0,0.0,0.0,1.0,0.5,1.1,0.02,
+Fnatic,emea,14,qualified,,,,0.5,0.5,,0,1000.0,,,,,,1.15,0.9,1.0
+Team Heretics,emea,9,likely,,,,0.5,0.5,,0,1000.0,,,,,,1.15,0.75,1.0
+Team Liquid,emea,8,likely,,,,0.5,0.5,,0,1000.0,,,,,,1.15,0.75,1.0
+Team Vitality,emea,6,contender,,,,0.5,0.5,,0,1000.0,,,,,,1.15,0.35,1.0
+BBL Esports,emea,5,contender,,,,0.5,0.5,,0,1000.0,,,,,,1.15,0.27999999999999997,1.0
+FUT Esports,emea,4,contender,,,,0.5,0.5,,0,1000.0,,,,,,1.15,0.27999999999999997,1.0
+NAVI,emea,4,contender,,,,0.5,0.5,,0,1000.0,,,,,,1.15,0.27999999999999997,1.0
+GIANTX,emea,2,longshot,,,,0.5,0.5,,0,1000.0,,,,,,1.15,0.12,1.0
+Karmine Corp,emea,2,longshot,,,,0.5,0.5,,0,1000.0,,,,,,1.15,0.12,1.0
+Movistar KOI,emea,1,longshot,,,,0.5,0.5,,0,1000.0,,,,,,1.15,0.12,1.0
+Gentle Mates,emea,1,longshot,,,,0.5,0.5,,0,1000.0,,,,,,1.15,0.12,1.0
+APEKS,emea,0,eliminated,,,,0.5,0.5,,0,1000.0,,,,,,1.15,0.02,1.0
+Paper Rex,pacific,12,qualified,0.0,0.0,0.0,0.0,0.5,0.0,1,100.0,1.0,0.0,0.0,1.0,0.5,1.05,0.9,
+T1,pacific,10,qualified,0.0,0.0,0.0,0.0,0.5,0.0,1,100.0,1.0,0.0,0.0,1.0,0.5,1.05,0.95,
+Gen.G,pacific,10,qualified,,,,0.5,0.5,,0,1000.0,,,,,,1.05,0.95,1.0
+DRX,pacific,8,likely,0.0,0.0,0.0,0.0,0.5,0.0,1,100.0,1.0,0.0,0.0,1.0,0.5,1.05,0.75,
+Rex Regum Qeon,pacific,8,likely,0.0,0.0,0.0,0.0,0.5,0.0,2,200.0,2.0,0.0,0.0,1.0,0.5,1.05,0.75,
+Talon Esports,pacific,5,contender,,,,0.5,0.5,,0,1000.0,,,,,,1.05,0.27999999999999997,1.0
+BOOM Esports,pacific,5,contender,,,,0.5,0.5,,0,1000.0,,,,,,1.05,0.27999999999999997,1.0
+NONGSHIM RedForce,pacific,4,contender,,,,0.5,0.5,,0,1000.0,,,,,,1.05,0.27999999999999997,1.0
+Global Esports,pacific,2,longshot,,,,0.5,0.5,,0,1000.0,,,,,,1.05,0.12,1.0
+ZETA DIVISION,pacific,2,longshot,,,,0.5,0.5,,0,1000.0,,,,,,1.05,0.12,1.0
+DetonatioN FocusMe,pacific,1,longshot,,,,0.5,0.5,,0,1000.0,,,,,,1.05,0.12,1.0
+Team Secret,pacific,1,longshot,,,,0.5,0.5,,0,1000.0,,,,,,1.05,0.12,1.0
+EDward Gaming,china,11,likely,,,,0.5,0.5,,0,1000.0,,,,,,0.95,0.8250000000000001,1.0
+Xi Lai Gaming,china,10,likely,0.0,0.0,0.0,0.0,0.5,0.0,1,100.0,1.0,0.0,0.0,1.0,0.5,0.95,0.75,
+Bilibili Gaming,china,9,likely,0.0,0.0,0.0,0.0,0.5,0.0,1,100.0,1.0,0.0,0.0,1.0,0.5,0.95,0.75,
+Wolves Esports,china,9,likely,,,,0.5,0.5,,0,1000.0,,,,,,0.95,0.75,1.0
+Trace Esports,china,6,contender,,,,0.5,0.5,,0,1000.0,,,,,,0.95,0.35,1.0
+Dragon Ranger Gaming,china,4,contender,0.0,0.0,0.0,0.0,0.5,0.0,1,100.0,1.0,0.0,0.0,1.0,0.5,0.95,0.27999999999999997,
+FunPlus Phoenix,china,4,contender,,,,0.5,0.5,,0,1000.0,,,,,,0.95,0.27999999999999997,1.0
+Nova Esports,china,3,contender,,,,0.5,0.5,,0,1000.0,,,,,,0.95,0.27999999999999997,1.0
+Titan Esports Club,china,3,contender,,,,0.5,0.5,,0,1000.0,,,,,,0.95,0.27999999999999997,1.0
+TYLOO Gaming,china,2,longshot,,,,0.5,0.5,,0,1000.0,,,,,,0.95,0.12,1.0
+JD Mall JDG Esports,china,1,longshot,,,,0.5,0.5,,0,1000.0,,,,,,0.95,0.12,1.0
+All Gamers,china,0,eliminated,,,,0.5,0.5,,0,1000.0,,,,,,0.95,0.02,1.0
+TYLOO,china,0,unknown,0.0,0.0,0.0,0.0,0.5,0.0,1,100.0,1.0,0.0,0.0,1.0,0.5,0.95,0.08000000000000002,
+TALON,pacific,0,unknown,0.0,0.0,0.0,0.0,0.5,0.0,1,100.0,1.0,0.0,0.0,1.0,0.5,1.05,0.08000000000000002,
