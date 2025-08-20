@@ -1,0 +1,21 @@
+{
+  "accuracy": 0.9615384615384616,
+  "training_samples": 102,
+  "test_samples": 26,
+  "features_used": [
+    "win_rate_diff",
+    "form_diff",
+    "points_diff",
+    "performance_diff",
+    "region_strength_diff",
+    "experience_diff",
+    "tournament_weight",
+    "h2h_wins",
+    "h2h_losses",
+    "h2h_total",
+    "same_region_int"
+  ],
+  "trained_at": "2025-08-21T00:43:31.692694",
+  "cv_accuracy_mean": 0.7442857142857143,
+  "cv_accuracy_std": 0.04128327009846334
+}

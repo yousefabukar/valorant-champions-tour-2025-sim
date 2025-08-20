@@ -5,7 +5,7 @@ import pandas as pd
 import numpy as np
 from datetime import datetime, timedelta
 from typing import Dict, List, Tuple
-from config import TOURNAMENT_WEIGHTS, get_tournament_weight
+from src.config import TOURNAMENT_WEIGHTS, get_tournament_weight
 
 class VCTFeatureEngine:
     """Feature engineering for VCT match prediction"""
@@ -38,7 +38,7 @@ class VCTFeatureEngine:
         teams_data = []
         
         # Get teams from current championship points (updated data)
-        from config import CURRENT_CHAMPIONSHIP_POINTS
+        from src.config import CURRENT_CHAMPIONSHIP_POINTS
         qualified_teams = CURRENT_CHAMPIONSHIP_POINTS
         
         for region, teams in qualified_teams.items():
@@ -52,7 +52,7 @@ class VCTFeatureEngine:
                 teams_data.append(team_features)
         
         # Add helper functions for getting team data
-        from config import get_team_championship_points, get_team_qualification_status, calculate_champions_probability
+        from src.config import get_team_championship_points, get_team_qualification_status, calculate_champions_probability
         # Add teams from recent matches that aren't in championship points
         recent_matches = self.raw_data.get('recent_matches', [])
         seen_teams = {team['name'] for region_teams in qualified_teams.values() for team in region_teams}
@@ -74,7 +74,7 @@ class VCTFeatureEngine:
         """Calculate comprehensive features for a team"""
         
         # Get real championship points from config
-        from config import get_team_championship_points, get_team_qualification_status, calculate_champions_probability
+        from src.config import get_team_championship_points, get_team_qualification_status, calculate_champions_probability
         
         real_points = get_team_championship_points(team_name)
         real_status = get_team_qualification_status(team_name)
